@@ -4600,6 +4600,10 @@ input, select, textarea {
 			visibility: visible;
 		}
 
+		.image4 {
+			width: 100px;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			#navPanel {

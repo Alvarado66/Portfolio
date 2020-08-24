@@ -4601,7 +4601,12 @@ input, select, textarea {
 		}
 
 		.image4 {
-			width: 100px;
+			width: 10px;
+			max-height: fit-content;
+		}
+
+		.reachOut {
+			margin-left: 30px;
 		}
 
 		@media screen and (max-width: 980px) {

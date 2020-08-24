@@ -2638,6 +2638,7 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		padding: 0;
+		margin-left: 30px;
 	}
 
 		ul.bulleted-icons li {
@@ -4598,6 +4599,14 @@ input, select, textarea {
 			transform: translateX(0);
 			box-shadow: 0 0 0.125em 0 rgba(0, 0, 0, 0.35);
 			visibility: visible;
+		}
+
+		.skillCard {
+			margin-left: 30px;
+		}
+
+		.image3 {
+			margin-left: 120px;
 		}
 
 		.image4 {
